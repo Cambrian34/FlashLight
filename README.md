@@ -14,4 +14,4 @@ An iOS app built with SwiftUI that simulates a flashlight. The background color 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/flashlight-app.git
+   git clone https://github.com/Cambrian34/flashlight-app.git
